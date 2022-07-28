@@ -31,7 +31,7 @@ public class VeryfyUserCanAddNewAddress {
 	ExtentHtmlReporter ExtentReporter;
 	ExtentReports report;
 	ExtentTest test;
-	
+
 	@BeforeClass
 	public void BeforClass() throws IOException
 	{
