@@ -31,7 +31,6 @@ public class VeryfyUserCanAddNewAddress {
 	ExtentHtmlReporter ExtentReporter;
 	
 	ExtentReports report;
-	
 	ExtentTest test;
 	
 	@BeforeClass
