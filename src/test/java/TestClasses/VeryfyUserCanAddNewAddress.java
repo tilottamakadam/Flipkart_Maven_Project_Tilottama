@@ -29,6 +29,7 @@ public class VeryfyUserCanAddNewAddress {
 	ProfilePage pp;
 	
 	ExtentHtmlReporter ExtentReporter;
+	
 	ExtentReports report;
 	ExtentTest test;
 
